@@ -8,8 +8,6 @@ Currently seeking co-op in Hardware, Software, IT (information technology) and f
 
 Many of my projects involve hardware restoration and repairing products.
 
-<p align="center">
-  <img src="waterloo_ascii_spinning.gif" alt="Spinning ASCII Waterloo Logo" width="300"/>
 </p>🌍 I'm based in Milton and Waterloo, Ontario<br>
 ✉️ Personal email - [azaan-khan@hotmail.com](mailto:azaan-khan@hotmail.com)<br>
 ✉️ University of Waterloo email - [a772khan@uwaterloo.ca](mailto:a772khan@uwaterloo.ca)<br>
