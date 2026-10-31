@@ -9,8 +9,8 @@ Currently seeking co-op in Hardware, Software, IT (information technology) and f
 Many of my projects involve hardware restoration and repairing products.
 
 </p>🌍 I'm based in Milton and Waterloo, Ontario<br>
-✉️ Personal email - [azaan-khan@hotmail.com](mailto:azaan-khan@hotmail.com)<br>
-✉️ University of Waterloo email - [a772khan@uwaterloo.ca](mailto:a772khan@uwaterloo.ca)<br>
+✉️ Personal email - azaan-khan@hotmail.com<br>
+✉️ University of Waterloo email - a772khan@uwaterloo.ca<br>
 
 I'm currently learning:<br>
 🧠 Hardware electronics using arduino (ECE198)<br>
